@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GenerateImages.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SourceFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\PandoraWall_designer\Documents\ПриложениеWall.xlsx</Value>
+    </Setting>
+    <Setting Name="ServerLeftName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PB437472001</Value>
+    </Setting>
+    <Setting Name="ServerMiddleName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PB437453001</Value>
+    </Setting>
+    <Setting Name="ServerRightName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PB437466001</Value>
+    </Setting>
+    <Setting Name="MainProgramHttpUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://127.0.0.1:8187</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
